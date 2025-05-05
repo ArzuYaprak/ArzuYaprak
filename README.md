@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Tuğçe!
+# 👋 Hi, I'm Arzu!
 
-<p align="center">
-  <img src="https://github.com/ArzuYaprak/ArzuYaprak/raw/main/8bf1c701-0f80-45c2-9114-5634e49bfa10.png" alt="AI Developer Banner" width="400"/>
-</p>
+![image](https://github.com/user-attachments/assets/3f2da4eb-538b-4d04-9357-bf542ff08fbe)
+
 
 Ben bir **Bilgisayar Mühendisliği öğrencisiyim**. Yazılım geliştirme alanında kendimi sürekli geliştiriyorum ve özellikle **Yapay Zeka** konularına büyük ilgi duyuyorum.  
 GitHub üzerinde projelerimi paylaşarak hem öğreniyor hem de katkı sağlamaya çalışıyorum.
